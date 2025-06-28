@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Muhammad",
+		"avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/39.jpg",
+		"status": false,
+		"desc": "Мне запомнился очень комфортный сон на борту и гиперудобные сиденья. Ещё возникает ощущение, что тебя обслуживают индивидуально, будто специально для тебя создан этот полёт.",
+		"id": "1"
+	},
+	{
+		"name": "",
+		"avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/0.jpg",
+		"status": false,
+		"desc": "Я бы хотела вернуться на борт Lujo BlackJet и полететь на Мальдивы — это моя мечта! Теперь не хочется по-другому летать, только так. Безумно комфортно, классный персонал на борту — всё очень достойно",
+		"id": "3"
+	},
+	{
+		"name": "",
+		"avatar": "https://avatars.githubusercontent.com/u/26936427",
+		"status": false,
+		"desc": "Tego advenio conqueror solutio bellum atrox abscido casus calcar iure. Comedo defessus acervus atavus socius vigor. Creber corpus dolor acceptus sum agnosco. Caveo decerno arguo conqueror stips conventus venio culpa ut complectus.",
+		"id": "4"
+	},
+	{
+		"name": "",
+		"avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/18.jpg",
+		"status": false,
+		"desc": "Itaque decretum comitatus vel textor id trado. Viriliter pectus suadeo confero. Tredecim sustineo advenio nemo angustus tyrannus officiis benigne certe aureus.",
+		"id": "5"
+	},
+	{
+		"name": "",
+		"avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/1.jpg",
+		"status": false,
+		"desc": "Coepi laboriosam turba vivo texo calamitas somnus cras ad sol. Beneficium corporis vero apto totam sumo tamdiu cotidie circumvenio. Xiphias sursum patrocinor corona quasi sophismata adopto arma vado adipiscor.",
+		"id": "8"
+	},
+	{
+		"name": "",
+		"avatar": "https://avatars.githubusercontent.com/u/18592017",
+		"status": false,
+		"desc": "Pariatur incidunt cerno laudantium pauci eligendi antea alveus.Depereo aestivus commemoro demitto bene.",
+		"id": "10"
+	},
+	{
+		"name": "",
+		"avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/23.jpg",
+		"status": false,
+		"desc": "Enim sollers advenio vado.Corporis natus denique utilis amplexus commodo molestiae.",
+		"id": "11"
+	},
+	{
+		"name": "",
+		"avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/80.jpg",
+		"status": false,
+		"desc": "Despecto usque audentia alveus.Ipsam toties cultura comprehendo thalassinus cubicularis cogo tergeo.Blandior amiculum contra clarus.Arma suscipio assumenda aer.",
+		"id": "12"
+	}
+]
